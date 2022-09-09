@@ -1,0 +1,14 @@
+{
+
+ "fens": [
+   {"fen":1,"vndr":"","bno":"","amt":0,"gst":"","cr":0,"cd":0,"rmrks":""}
+  ],
+  "itms":[
+    { "fen":1,"hsn":"","qty":0,"rate":0,"disc":0,"rgst":18,"loc":"","ord":"" }
+  ],
+
+  "trsp":[
+    { "fen":1,"trsptr":"","lr","","lrdt":"","pmrk":"","cases":0,"wt",0,"gstin":"" }
+  ]
+
+}
